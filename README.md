@@ -1,4 +1,2 @@
 # doremon
-#hie jaanu hiee
-#hiee
-##hiee
+## add some use information
